@@ -18,8 +18,8 @@
 - After unsuccessful image searches using different photos from the site, I stumbled upon a YouTube video of the villa tour: https://www.youtube.com/watch?v=rm_JO7PoeBM 
 - Near the end, at 2:00-2:06 mark, the villa is zoomed out, showing the beachside and the hills in the distance.
   ![Screenshot 2024-12-03 224109](https://github.com/user-attachments/assets/c57ad284-2fd5-4821-a6ca-ae45b6cc7af5)
-- I opened Google Maps on my phone for ease, and used the landmarks encircled as references. Considering the perspective, I was able to determine the rough location of the villa by drawing a line through the 2 small piers, 3 buildings, and a red-roofed low building, and the extrapolating it inland.
-  <img src="https://github.com/user-attachments/assets/dab93822-19b6-4cde-8e8f-cfcddf8983ee" width="60%"/>
+- I opened Google Maps on my phone for ease, and used the landmarks encircled as references. Considering the perspective, I was able to determine the rough location of the villa by drawing a line through the 2 small piers, 3 buildings, and a red-roofed low building, and the extrapolating it inland. <br>
+  <img src="https://github.com/user-attachments/assets/dab93822-19b6-4cde-8e8f-cfcddf8983ee" width="60%"/> 
   <img src="https://github.com/user-attachments/assets/c571f579-3002-45cc-b5ff-8dc8c9e8d798" width="30%"/>
 - After a false step which took me between Av. Maréchal Juin and Pointe Croisette, I recentered my focus on Le Supuet area.
 - Going back to the video (at 1:57 mark), I noticed a parapet and a flag near the villa, as well as a zig-zag road (don’t know the exact word, but see the image below and you’ll understand what I mean)
