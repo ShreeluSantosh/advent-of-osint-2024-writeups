@@ -10,13 +10,12 @@
 ## My Methodology
 
 - I first did a simple reverse image search on Google Images. The results showed me that the image was taken from this site: [https://www.lgprestige-immobilier-mandelieu.com/fr/propriété/84518475](https://www.lgprestige-immobilier-mandelieu.com/fr/propri%C3%A9t%C3%A9/84518475)
-  
 - Interestingly, the site does not mention any address, so I went back to image search results and found this: https://properties.lefigaro.com/announces/villa-alpes+maritimes-provence+alpes+cote+d+azur-france/67627904/  . Also, it says that in order to get the address, I’d have to drop an enquiry.
 - The first site did mention that the villa was located in Le Suquet, in Cannes, which narrowed down my search area
   ![Screenshot 2024-12-03 223843](https://github.com/user-attachments/assets/bb340a26-215d-452a-8ee3-1729ff036011)
 - The first site also had an embedded map, but when I zoomed in and used it as reference for Google Maps, the exact location fell in the middle of a road, and the surroundings didn’t match the photo.
   ![Screenshot 2024-12-03 223944](https://github.com/user-attachments/assets/aead67c8-148e-46e8-b770-a90c83da61cd)
-- After unsuccessful image searches using different photos from the site, I stumbled upon a YouTube video of the villa tour 
+- After unsuccessful image searches using different photos from the site, I stumbled upon a YouTube video of the villa tour: https://www.youtube.com/watch?v=rm_JO7PoeBM 
 - Near the end, at 2:00-2:06 mark, the villa is zoomed out, showing the beachside and the hills in the distance.
   ![Screenshot 2024-12-03 224109](https://github.com/user-attachments/assets/c57ad284-2fd5-4821-a6ca-ae45b6cc7af5)
 - I opened Google Maps on my phone for ease, and used the landmarks encircled as references. Considering the perspective, I was able to determine the rough location of the villa by drawing a line through the 2 small piers, 3 buildings, and a red-roofed low building, and the extrapolating it inland.
