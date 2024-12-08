@@ -6,7 +6,7 @@ Did you know there's an Earth Day flag? Surprisingly, the image that appears on 
 
 A man decided, as a personal challenge, to find an answer to this question and created a website dedicated to this research.
 
-The identity of the photographer is unverifiable? I decided to take that as a personal challenge.
+> The identity of the photographer is unverifiable? I decided to take that as a personal challenge.
 
 When was the last revision of his website (format YYYYMMDD)?
 
