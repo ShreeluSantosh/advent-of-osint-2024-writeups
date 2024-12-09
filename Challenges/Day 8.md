@@ -9,3 +9,6 @@ Several years ago, they even had a chance to win a prize, if they went to rue Vi
 What could one win (in french)?
 
 Answer format: camescope
+
+Image:<br>
+![image](https://github.com/user-attachments/assets/baeefef0-23d8-4eb1-a7ae-3e0aa8cf0ff1)
