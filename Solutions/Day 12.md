@@ -22,7 +22,7 @@ Answer format: Salle aux mille feux
 - Finally, I Googled 'venue of COP21' and found this page https://unfccc.int/news/cop-21cmp-11-information-hub-venue-and-logistics. The venue is clearly the Parc des Expositions, 93350 Le Bourget.
 - On Google Maps, I found the location of the venue, and noticed that there is a museum nearby with name of Musée de l'Air et de l'Espace.
   ![image](https://github.com/user-attachments/assets/931ab4e8-0c02-4173-b4ae-03211ad41359)
-- After a bit of trial-and-error- I found a place at appears to be at the entrance of the museum with the name - Salle des Huit Colonnes. This turned out to the the first room that we see upon entering the museum.
+- After a bit of trial-and-error with Google's Street View, I found a place at appears to be at the entrance of the museum with the name - Salle des Huit Colonnes. This turned out to the the first room that we see upon entering the museum.
 - Alternate method: Access the museum's official website (https://www.museeairespace.fr/a-voir-a-faire/expositions-permanentes/) , look for visit route and you'll get a map of the museum. You'll easily find the name of the room at the entrance
   ![image](https://github.com/user-attachments/assets/2bea45cb-1b13-4e0d-aebc-2ac5713490c9)
 - Second question:
@@ -43,6 +43,13 @@ Answer format: Salle aux mille feux
 - Still finding the name of the aircraft that made the crossing in the opposite direction a few years earlier - my guess is Lockheed SR-71 BlackBird (in 1974, which fits the challenge question - https://en.wikipedia.org/wiki/Transatlantic_flight#Records_2). But the horsepower calculations don't add up
   ![image](https://github.com/user-attachments/assets/da1f7e91-4f74-49b6-9e45-ccda9a374f7f)
 
-  Will update when I find the correct formula for calculating horsepower
+- After checking out the video solution, turns out I was wrong. The correct name for the first aircraft is the famous *Spirit of St. Louis*. (https://fr.wikipedia.org/wiki/Vol_transatlantique), which flew non-stop from New York to Paris.
+  ![image](https://github.com/user-attachments/assets/3245757e-4ce4-4408-929d-795e6f521572)
+- The other aircraft is Breguet XIX, with route from Paris to New York, in opposite direction. Its replica is in the museum in the first answer. (https://fr.wikipedia.org/wiki/Breguet_19#Avions_conserv%C3%A9s)
+  ![image](https://github.com/user-attachments/assets/bc3f0041-e11a-4343-aede-88bfa00b0036)
+- On the Wikipedia pages for Spirit of St.Louis, its horsepower (puissance) is 223 HP.
+- In the page on Breguet XIX (from the museum's website), its horsepower is 650 HP (https://www.museeairespace.fr/aller-plus-haut/collections/breguet-xix-tf-super-bidon-point-dinterrogation/)
+- The difference is 427 HP.
 
 ## Reward
+![image](https://github.com/user-attachments/assets/52ac9b28-d78e-4069-99c5-ff43b09ed873)
