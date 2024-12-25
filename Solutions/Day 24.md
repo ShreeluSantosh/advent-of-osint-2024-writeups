@@ -42,4 +42,27 @@ Answer format: Power
   What is her first name?
   Answer format: Betty
   ```
-- 
+- I did the reverse image search on the image in the challenge again, and I found another image where the woman is present:
+  ![image](https://github.com/user-attachments/assets/b53ca6cd-2c09-41f8-b854-c0ba4cb6d261)
+- Her name is Arancha Hinojal Oyarbide
+- Fourth question:
+  ```
+  A few months after signing this document, Mr. Mamabolo served on the first committee to award a prestigious prize.
+
+  A man and a woman were honored. At the end of 2016, a channel specializing in explorations and natural history uploaded a documentary in 
+  which this woman introduces herself.
+
+  How does she translate her second name into English?
+
+  Answer format: You will see again
+  ```
+- I googled 'Mamabolo 2015 prize', and found that the name of the prize is Nelson Mandela Prize.
+- From there, I was able to find the names of the 2015 laureates:
+  ![image](https://github.com/user-attachments/assets/65d4f3d7-248c-4751-8461-bc1357c81a44)
+- I went to YouTube and searched 'Helena Ndume 2016 National Geographic'
+- The transcript showed the meaning of her name:
+  ![image](https://github.com/user-attachments/assets/4e113581-4733-415d-b44b-2bc22decef8e)
+
+## Reward
+![image](https://github.com/user-attachments/assets/86565578-7bf9-44db-8627-0aab5b9ae3ad)
+
